@@ -1,6 +1,6 @@
 {
     "title": "PortFolio",
-    "name": "Choi Da hoon",
+    "name": "choidahoon",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
